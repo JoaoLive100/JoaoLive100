@@ -15,7 +15,7 @@
       </ul>
       <h3>Qualifications:</h3>
       <ul>
-        <li>2nd-year Computer Engineering bachelor's degree student at <a href="https://www.linkedin.com/school/univespoficial/">UNIVESP</a>, a university fully funded by the Brazilian government;</li>
+        <li>4th-year Computer Engineering bachelor's degree student at <a href="https://www.linkedin.com/school/univespoficial/">UNIVESP</a>, a university fully funded by the Brazilian government;</li>
         <li>Graduated with honors as a <a href="https://drive.google.com/file/d/1VOKkknS3GeNbVZIM1ndhtqYor9cSkcuE/view?usp=sharing">Computer Technician</a> during high school;</li>
         <li>Some years of experience working in modern tech organizations (from small startups to 500+ employee YCombinator companies), developing new features and maintaining platforms with over 1,000,000 users;</li>
       </ul>
