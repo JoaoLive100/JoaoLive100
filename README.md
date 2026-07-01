@@ -10,7 +10,7 @@
       <h3>This is where I study, work, and build my own projects. Here are some facts about me:</h3>
       <ul>
         <li>Hardware and overclocking enthusiast, big fan of <a href="https://www.youtube.com/watch?v=UzfmZQpHUIY">TecLab</a>, and creator of <a href="https://www.youtube.com/channel/UCfK_QRL1De8y1ngpGURStEQ">Foxyes PC's</a>;</li>
-        <li>Coding since I was 16 years old (3+ years of programming);</li>
+        <li>3+ years of programming;</li>
         <li>My main interests are in backend development and database technologies;</li>  
       </ul>
       <h3>Qualifications:</h3>
@@ -22,8 +22,8 @@
       <hr>
       <div class="github-readme-stats" align="center">
         <a href="https://github.com/JoaoLive100">
-          <img height="160px" src="https://github-readme-stats.vercel.app/api?username=JoaoLive100&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-          <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLive100&layout=compact&langs_count=7&theme=radical"/>
+          <img height="160px" src="https://github-readme-stats.shion.dev/api?username=JoaoLive100&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+          <img height="160px" src="https://github-readme-stats.shion.dev/api?username=JoaoLive100&layout=compact&langs_count=7&theme=radical"/>
         </a>
       </div>
       <hr>
@@ -35,14 +35,13 @@
       <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <h3>Web Development Technologies:</h3>
       <h4>- Frontend</h4>
+      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
       <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
       <img align="center" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
       <h4>- Backend</h4>
       <img align="center" alt="Ruby on Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
-      <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
       <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
       <h4>- Testing</h4>
       <img align="center" alt="RSpec" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg">
@@ -54,6 +53,10 @@
       <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
       <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+      <h3>Monitoring/Observality:</h3>
+      <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+      <img align="center" alt="Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
+      <img align="center" alt="Sentry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg">
       <h3>Other:</h3>
       <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
       <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
